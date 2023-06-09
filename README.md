@@ -146,7 +146,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![p](out2.png)
 
 ### Sample Text Prediction
-![output](out3.png)
+![output](output.png)
 
 ## RESULT:
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
